@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+  <testsuite name="Drupal\Tests\content_translation\Unit\Access\ContentTranslationManageAccessCheckTest" file="/Users/digitalechidna/Sites/cookbook-cr/core/modules/content_translation/tests/src/Unit/Access/ContentTranslationManageAccessCheckTest.php" tests="1" assertions="6" failures="0" errors="0" time="0.060115">
+    <testcase name="testCreateAccess" class="Drupal\Tests\content_translation\Unit\Access\ContentTranslationManageAccessCheckTest" file="/Users/digitalechidna/Sites/cookbook-cr/core/modules/content_translation/tests/src/Unit/Access/ContentTranslationManageAccessCheckTest.php" line="50" assertions="6" time="0.060115"/>
+  </testsuite>
+</testsuites>

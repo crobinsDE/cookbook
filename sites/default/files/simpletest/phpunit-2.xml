@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+  <testsuite name="Drupal\KernelTests\KernelTestBaseTest" file="/Users/digitalechidna/Sites/cookbook-cr/core/tests/Drupal/KernelTests/KernelTestBaseTest.php" tests="10" assertions="60" failures="0" errors="0" time="6.900399">
+    <testcase name="testSetUpBeforeClass" class="Drupal\KernelTests\KernelTestBaseTest" file="/Users/digitalechidna/Sites/cookbook-cr/core/tests/Drupal/KernelTests/KernelTestBaseTest.php" line="19" assertions="3" time="0.444395"/>
+    <testcase name="testBootEnvironment" class="Drupal\KernelTests\KernelTestBaseTest" file="/Users/digitalechidna/Sites/cookbook-cr/core/tests/Drupal/KernelTests/KernelTestBaseTest.php" line="27" assertions="5" time="0.501872"/>
+    <testcase name="testGetDatabaseConnectionInfoWithOutManualSetDbUrl" class="Drupal\KernelTests\KernelTestBaseTest" file="/Users/digitalechidna/Sites/cookbook-cr/core/tests/Drupal/KernelTests/KernelTestBaseTest.php" line="50" assertions="3" time="0.483897"/>
+    <testcase name="testSetUp" class="Drupal\KernelTests\KernelTestBaseTest" file="/Users/digitalechidna/Sites/cookbook-cr/core/tests/Drupal/KernelTests/KernelTestBaseTest.php" line="58" assertions="11" time="0.636517"/>
+    <testcase name="testSetUpDoesNotLeak" class="Drupal\KernelTests\KernelTestBaseTest" file="/Users/digitalechidna/Sites/cookbook-cr/core/tests/Drupal/KernelTests/KernelTestBaseTest.php" line="98" assertions="4" time="0.433706"/>
+    <testcase name="testRegister" class="Drupal\KernelTests\KernelTestBaseTest" file="/Users/digitalechidna/Sites/cookbook-cr/core/tests/Drupal/KernelTests/KernelTestBaseTest.php" line="109" assertions="13" time="0.667417"/>
+    <testcase name="testCompiledContainer" class="Drupal\KernelTests\KernelTestBaseTest" file="/Users/digitalechidna/Sites/cookbook-cr/core/tests/Drupal/KernelTests/KernelTestBaseTest.php" line="144" assertions="3" time="1.140738"/>
+    <testcase name="testCompiledContainerIsDestructed" class="Drupal\KernelTests\KernelTestBaseTest" file="/Users/digitalechidna/Sites/cookbook-cr/core/tests/Drupal/KernelTests/KernelTestBaseTest.php" line="155" assertions="3" time="0.942683"/>
+    <testcase name="testRender" class="Drupal\KernelTests\KernelTestBaseTest" file="/Users/digitalechidna/Sites/cookbook-cr/core/tests/Drupal/KernelTests/KernelTestBaseTest.php" line="163" assertions="9" time="0.781767"/>
+    <testcase name="testRenderWithTheme" class="Drupal\KernelTests\KernelTestBaseTest" file="/Users/digitalechidna/Sites/cookbook-cr/core/tests/Drupal/KernelTests/KernelTestBaseTest.php" line="191" assertions="6" time="0.867407"/>
+  </testsuite>
+</testsuites>

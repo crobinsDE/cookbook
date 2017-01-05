@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+  <testsuite name="Drupal\Tests\action\Kernel\Migrate\d7\MigrateActionsTest" file="/Users/digitalechidna/Sites/cookbook-cr/core/modules/action/tests/src/Kernel/Migrate/d7/MigrateActionsTest.php" tests="1" assertions="52" failures="0" errors="0" time="21.356777">
+    <testcase name="testActions" class="Drupal\Tests\action\Kernel\Migrate\d7\MigrateActionsTest" file="/Users/digitalechidna/Sites/cookbook-cr/core/modules/action/tests/src/Kernel/Migrate/d7/MigrateActionsTest.php" line="28" assertions="52" time="21.356777"/>
+  </testsuite>
+</testsuites>

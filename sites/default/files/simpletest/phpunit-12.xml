@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+  <testsuite name="Drupal\Tests\Core\Access\DefaultAccessCheckTest" file="/Users/digitalechidna/Sites/cookbook-cr/core/tests/Drupal/Tests/Core/Access/DefaultAccessCheckTest.php" tests="1" assertions="3" failures="0" errors="0" time="0.011315">
+    <testcase name="testAccess" class="Drupal\Tests\Core\Access\DefaultAccessCheckTest" file="/Users/digitalechidna/Sites/cookbook-cr/core/tests/Drupal/Tests/Core/Access/DefaultAccessCheckTest.php" line="44" assertions="3" time="0.011315"/>
+  </testsuite>
+</testsuites>

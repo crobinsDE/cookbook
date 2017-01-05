@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+  <testsuite name="Drupal\Tests\action\Functional\ConfigurationTest" file="/Users/digitalechidna/Sites/cookbook-cr/core/modules/action/tests/src/Functional/ConfigurationTest.php" tests="1" assertions="1" failures="0" errors="1" time="9.793076">
+    <testcase name="testActionConfiguration" class="Drupal\Tests\action\Functional\ConfigurationTest" file="/Users/digitalechidna/Sites/cookbook-cr/core/modules/action/tests/src/Functional/ConfigurationTest.php" line="27" assertions="1" time="9.793076">
+      <error type="PHPUnit_Framework_ExceptionWrapper">Drupal\Tests\action\Functional\ConfigurationTest::testActionConfiguration
+GuzzleHttp\Exception\ConnectException: cURL error 6: Could not resolve host: www.localhost (see http://curl.haxx.se/libcurl/c/libcurl-errors.html)
+
+/Users/digitalechidna/Sites/cookbook-cr/vendor/guzzlehttp/guzzle/src/Handler/CurlFactory.php:186
+/Users/digitalechidna/Sites/cookbook-cr/vendor/guzzlehttp/guzzle/src/Handler/CurlFactory.php:150
+/Users/digitalechidna/Sites/cookbook-cr/vendor/guzzlehttp/guzzle/src/Handler/CurlFactory.php:103
+/Users/digitalechidna/Sites/cookbook-cr/vendor/guzzlehttp/guzzle/src/Handler/CurlHandler.php:43
+/Users/digitalechidna/Sites/cookbook-cr/vendor/guzzlehttp/guzzle/src/Handler/Proxy.php:28
+/Users/digitalechidna/Sites/cookbook-cr/vendor/guzzlehttp/guzzle/src/Handler/Proxy.php:51
+/Users/digitalechidna/Sites/cookbook-cr/core/lib/Drupal/Core/Test/HttpClientMiddleware/TestHttpClientMiddleware.php:31
+/Users/digitalechidna/Sites/cookbook-cr/vendor/guzzlehttp/guzzle/src/PrepareBodyMiddleware.php:42
+/Users/digitalechidna/Sites/cookbook-cr/vendor/guzzlehttp/guzzle/src/Middleware.php:36
+/Users/digitalechidna/Sites/cookbook-cr/vendor/guzzlehttp/guzzle/src/RedirectMiddleware.php:52
+/Users/digitalechidna/Sites/cookbook-cr/vendor/guzzlehttp/guzzle/src/Middleware.php:59
+/Users/digitalechidna/Sites/cookbook-cr/vendor/guzzlehttp/guzzle/src/HandlerStack.php:67
+/Users/digitalechidna/Sites/cookbook-cr/vendor/guzzlehttp/guzzle/src/Client.php:275
+/Users/digitalechidna/Sites/cookbook-cr/vendor/guzzlehttp/guzzle/src/Client.php:123
+/Users/digitalechidna/Sites/cookbook-cr/vendor/guzzlehttp/guzzle/src/Client.php:129
+/Users/digitalechidna/Sites/cookbook-cr/vendor/fabpot/goutte/Goutte/Client.php:138
+/Users/digitalechidna/Sites/cookbook-cr/vendor/symfony/browser-kit/Client.php:297
+/Users/digitalechidna/Sites/cookbook-cr/vendor/symfony/browser-kit/Client.php:481
+/Users/digitalechidna/Sites/cookbook-cr/vendor/symfony/browser-kit/Client.php:313
+/Users/digitalechidna/Sites/cookbook-cr/vendor/behat/mink-browserkit-driver/src/BrowserKitDriver.php:144
+/Users/digitalechidna/Sites/cookbook-cr/vendor/behat/mink/src/Session.php:143
+/Users/digitalechidna/Sites/cookbook-cr/core/tests/Drupal/Tests/BrowserTestBase.php:372
+/Users/digitalechidna/Sites/cookbook-cr/core/tests/Drupal/Tests/BrowserTestBase.php:475
+</error>
+    </testcase>
+  </testsuite>
+</testsuites>

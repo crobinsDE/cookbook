@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+  <testsuite name="Drupal\Tests\Core\Access\CsrfAccessCheckTest" file="/Users/digitalechidna/Sites/cookbook-cr/core/tests/Drupal/Tests/Core/Access/CsrfAccessCheckTest.php" tests="2" assertions="6" failures="0" errors="0" time="0.014855">
+    <testcase name="testAccessTokenPass" class="Drupal\Tests\Core\Access\CsrfAccessCheckTest" file="/Users/digitalechidna/Sites/cookbook-cr/core/tests/Drupal/Tests/Core/Access/CsrfAccessCheckTest.php" line="51" assertions="3" time="0.012791"/>
+    <testcase name="testAccessTokenFail" class="Drupal\Tests\Core\Access\CsrfAccessCheckTest" file="/Users/digitalechidna/Sites/cookbook-cr/core/tests/Drupal/Tests/Core/Access/CsrfAccessCheckTest.php" line="70" assertions="3" time="0.002064"/>
+  </testsuite>
+</testsuites>

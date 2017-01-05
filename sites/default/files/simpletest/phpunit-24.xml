@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+  <testsuite name="Drupal\Tests\action\Kernel\Plugin\migrate\source\ActionTest" file="/Users/digitalechidna/Sites/cookbook-cr/core/modules/action/tests/src/Kernel/Plugin/migrate/source/ActionTest.php" tests="1" assertions="48" failures="0" errors="0" time="0.934750">
+    <testsuite name="Drupal\Tests\action\Kernel\Plugin\migrate\source\ActionTest::testSource" tests="1" assertions="48" failures="0" errors="0" time="0.934750">
+      <testcase name="testSource with data set #0" assertions="48" time="0.934750"/>
+    </testsuite>
+  </testsuite>
+</testsuites>

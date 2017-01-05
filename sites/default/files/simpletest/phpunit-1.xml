@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+  <testsuite name="Drupal\KernelTests\Core\Common\DrupalSetMessageTest" file="/Users/digitalechidna/Sites/cookbook-cr/core/tests/Drupal/KernelTests/Core/Common/DrupalSetMessageTest.php" tests="1" assertions="3" failures="0" errors="0" time="0.919568">
+    <testcase name="testDrupalSetMessage" class="Drupal\KernelTests\Core\Common\DrupalSetMessageTest" file="/Users/digitalechidna/Sites/cookbook-cr/core/tests/Drupal/KernelTests/Core/Common/DrupalSetMessageTest.php" line="16" assertions="3" time="0.919568"/>
+  </testsuite>
+</testsuites>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+  <testsuite name="Drupal\Tests\action\Unit\Menu\ActionLocalTasksTest" file="/Users/digitalechidna/Sites/cookbook-cr/core/modules/action/tests/src/Unit/Menu/ActionLocalTasksTest.php" tests="1" assertions="1" failures="0" errors="0" time="0.107550">
+    <testcase name="testActionLocalTasks" class="Drupal\Tests\action\Unit\Menu\ActionLocalTasksTest" file="/Users/digitalechidna/Sites/cookbook-cr/core/modules/action/tests/src/Unit/Menu/ActionLocalTasksTest.php" line="22" assertions="1" time="0.107550"/>
+  </testsuite>
+</testsuites>

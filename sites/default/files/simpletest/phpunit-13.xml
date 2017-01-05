@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+  <testsuite name="Drupal\Tests\Core\Access\RouteProcessorCsrfTest" file="/Users/digitalechidna/Sites/cookbook-cr/core/tests/Drupal/Tests/Core/Access/RouteProcessorCsrfTest.php" tests="4" assertions="8" failures="0" errors="0" time="0.011993">
+    <testcase name="testProcessOutboundNoRequirement" class="Drupal\Tests\Core\Access\RouteProcessorCsrfTest" file="/Users/digitalechidna/Sites/cookbook-cr/core/tests/Drupal/Tests/Core/Access/RouteProcessorCsrfTest.php" line="41" assertions="3" time="0.007270"/>
+    <testcase name="testProcessOutbound" class="Drupal\Tests\Core\Access\RouteProcessorCsrfTest" file="/Users/digitalechidna/Sites/cookbook-cr/core/tests/Drupal/Tests/Core/Access/RouteProcessorCsrfTest.php" line="60" assertions="3" time="0.001400"/>
+    <testcase name="testProcessOutboundDynamicOne" class="Drupal\Tests\Core\Access\RouteProcessorCsrfTest" file="/Users/digitalechidna/Sites/cookbook-cr/core/tests/Drupal/Tests/Core/Access/RouteProcessorCsrfTest.php" line="82" assertions="1" time="0.001810"/>
+    <testcase name="testProcessOutboundDynamicTwo" class="Drupal\Tests\Core\Access\RouteProcessorCsrfTest" file="/Users/digitalechidna/Sites/cookbook-cr/core/tests/Drupal/Tests/Core/Access/RouteProcessorCsrfTest.php" line="101" assertions="1" time="0.001513"/>
+  </testsuite>
+</testsuites>

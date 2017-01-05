@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+  <testsuite name="Drupal\Tests\system\Kernel\Action\ActionTest" file="/Users/digitalechidna/Sites/cookbook-cr/core/modules/system/tests/src/Kernel/Action/ActionTest.php" tests="2" assertions="13" failures="0" errors="0" time="2.676085">
+    <testcase name="testOperations" class="Drupal\Tests\system\Kernel\Action\ActionTest" file="/Users/digitalechidna/Sites/cookbook-cr/core/modules/system/tests/src/Kernel/Action/ActionTest.php" line="43" assertions="10" time="1.408808"/>
+    <testcase name="testDependencies" class="Drupal\Tests\system\Kernel\Action\ActionTest" file="/Users/digitalechidna/Sites/cookbook-cr/core/modules/system/tests/src/Kernel/Action/ActionTest.php" line="77" assertions="3" time="1.267277"/>
+  </testsuite>
+</testsuites>

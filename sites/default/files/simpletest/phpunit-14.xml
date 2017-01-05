@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+  <testsuite name="Drupal\Tests\Core\Entity\EntityAccessCheckTest" file="/Users/digitalechidna/Sites/cookbook-cr/core/tests/Drupal/Tests/Core/Entity/EntityAccessCheckTest.php" tests="2" assertions="2" failures="0" errors="0" time="0.070814">
+    <testcase name="testAccess" class="Drupal\Tests\Core\Entity\EntityAccessCheckTest" file="/Users/digitalechidna/Sites/cookbook-cr/core/tests/Drupal/Tests/Core/Entity/EntityAccessCheckTest.php" line="39" assertions="1" time="0.065874"/>
+    <testcase name="testAccessWithTypePlaceholder" class="Drupal\Tests\Core\Entity\EntityAccessCheckTest" file="/Users/digitalechidna/Sites/cookbook-cr/core/tests/Drupal/Tests/Core/Entity/EntityAccessCheckTest.php" line="62" assertions="1" time="0.004940"/>
+  </testsuite>
+</testsuites>

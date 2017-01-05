@@ -1,0 +1,9 @@
+<?php
+
+/**
+ * Implements hook_field_info_alter().
+ */
+function myfield_field_info_alter(&$info) {
+  $info['email']['label'] = t('E-mail address');
+}
+?>

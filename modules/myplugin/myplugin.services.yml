@@ -1,0 +1,4 @@
+services:
+  plugin.manager.unit:
+    class: Drupal\myplugin\UnitManager
+    arguments: ['@container.namespaces', '@cache.discovery', '@module_handler']

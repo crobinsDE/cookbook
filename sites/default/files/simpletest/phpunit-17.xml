@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+  <testsuite name="Drupal\Tests\quickedit\Unit\Access\EditEntityFieldAccessCheckTest" file="/Users/digitalechidna/Sites/cookbook-cr/core/modules/quickedit/tests/src/Unit/Access/EditEntityFieldAccessCheckTest.php" tests="8" assertions="8" failures="0" errors="0" time="0.062634">
+    <testsuite name="Drupal\Tests\quickedit\Unit\Access\EditEntityFieldAccessCheckTest::testAccess" tests="4" assertions="4" failures="0" errors="0" time="0.053793">
+      <testcase name="testAccess with data set #0" assertions="1" time="0.042664"/>
+      <testcase name="testAccess with data set #1" assertions="1" time="0.003676"/>
+      <testcase name="testAccess with data set #2" assertions="1" time="0.003858"/>
+      <testcase name="testAccess with data set #3" assertions="1" time="0.003595"/>
+    </testsuite>
+    <testsuite name="Drupal\Tests\quickedit\Unit\Access\EditEntityFieldAccessCheckTest::testAccessForbidden" tests="4" assertions="4" failures="0" errors="0" time="0.008841">
+      <testcase name="testAccessForbidden with data set #0" assertions="1" time="0.002378"/>
+      <testcase name="testAccessForbidden with data set #1" assertions="1" time="0.002268"/>
+      <testcase name="testAccessForbidden with data set #2" assertions="1" time="0.002170"/>
+      <testcase name="testAccessForbidden with data set #3" assertions="1" time="0.002025"/>
+    </testsuite>
+  </testsuite>
+</testsuites>

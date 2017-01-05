@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+  <testsuite name="Drupal\Tests\Core\Access\AccessResultForbiddenTest" file="/Users/digitalechidna/Sites/cookbook-cr/core/tests/Drupal/Tests/Core/Access/AccessResultForbiddenTest.php" tests="2" assertions="4" failures="0" errors="0" time="0.004993">
+    <testcase name="testConstruction" class="Drupal\Tests\Core\Access\AccessResultForbiddenTest" file="/Users/digitalechidna/Sites/cookbook-cr/core/tests/Drupal/Tests/Core/Access/AccessResultForbiddenTest.php" line="20" assertions="2" time="0.003863"/>
+    <testcase name="testSetReason" class="Drupal\Tests\Core\Access\AccessResultForbiddenTest" file="/Users/digitalechidna/Sites/cookbook-cr/core/tests/Drupal/Tests/Core/Access/AccessResultForbiddenTest.php" line="35" assertions="2" time="0.001130"/>
+  </testsuite>
+</testsuites>

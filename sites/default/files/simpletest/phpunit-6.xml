@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+  <testsuite name="Drupal\Tests\Core\Access\AccessManagerTest" file="/Users/digitalechidna/Sites/cookbook-cr/core/tests/Drupal/Tests/Core/Access/AccessManagerTest.php" tests="18" assertions="68" failures="0" errors="0" time="0.260337">
+    <testcase name="testSetChecks" class="Drupal\Tests\Core\Access\AccessManagerTest" file="/Users/digitalechidna/Sites/cookbook-cr/core/tests/Drupal/Tests/Core/Access/AccessManagerTest.php" line="137" assertions="7" time="0.158447"/>
+    <testcase name="testSetChecksWithDynamicAccessChecker" class="Drupal\Tests\Core\Access\AccessManagerTest" file="/Users/digitalechidna/Sites/cookbook-cr/core/tests/Drupal/Tests/Core/Access/AccessManagerTest.php" line="157" assertions="3" time="0.003345"/>
+    <testcase name="testCheck" class="Drupal\Tests\Core\Access\AccessManagerTest" file="/Users/digitalechidna/Sites/cookbook-cr/core/tests/Drupal/Tests/Core/Access/AccessManagerTest.php" line="187" assertions="24" time="0.004877"/>
+    <testcase name="testCheckWithNullAccount" class="Drupal\Tests\Core\Access\AccessManagerTest" file="/Users/digitalechidna/Sites/cookbook-cr/core/tests/Drupal/Tests/Core/Access/AccessManagerTest.php" line="229" assertions="1" time="0.001927"/>
+    <testsuite name="Drupal\Tests\Core\Access\AccessManagerTest::testCheckConjunctions" tests="6" assertions="12" failures="0" errors="0" time="0.027503">
+      <testcase name="testCheckConjunctions with data set #0" assertions="2" time="0.016917"/>
+      <testcase name="testCheckConjunctions with data set #1" assertions="2" time="0.002194"/>
+      <testcase name="testCheckConjunctions with data set #2" assertions="2" time="0.002036"/>
+      <testcase name="testCheckConjunctions with data set #3" assertions="2" time="0.002115"/>
+      <testcase name="testCheckConjunctions with data set #4" assertions="2" time="0.002173"/>
+      <testcase name="testCheckConjunctions with data set #5" assertions="2" time="0.002068"/>
+    </testsuite>
+    <testcase name="testCheckNamedRoute" class="Drupal\Tests\Core\Access\AccessManagerTest" file="/Users/digitalechidna/Sites/cookbook-cr/core/tests/Drupal/Tests/Core/Access/AccessManagerTest.php" line="331" assertions="5" time="0.002773"/>
+    <testcase name="testCheckNamedRouteWithUpcastedValues" class="Drupal\Tests\Core\Access\AccessManagerTest" file="/Users/digitalechidna/Sites/cookbook-cr/core/tests/Drupal/Tests/Core/Access/AccessManagerTest.php" line="366" assertions="5" time="0.002826"/>
+    <testcase name="testCheckNamedRouteWithDefaultValue" class="Drupal\Tests\Core\Access\AccessManagerTest" file="/Users/digitalechidna/Sites/cookbook-cr/core/tests/Drupal/Tests/Core/Access/AccessManagerTest.php" line="415" assertions="5" time="0.002915"/>
+    <testcase name="testCheckNamedRouteWithNonExistingRoute" class="Drupal\Tests\Core\Access\AccessManagerTest" file="/Users/digitalechidna/Sites/cookbook-cr/core/tests/Drupal/Tests/Core/Access/AccessManagerTest.php" line="462" assertions="2" time="0.022723"/>
+    <testsuite name="Drupal\Tests\Core\Access\AccessManagerTest::testCheckException" tests="4" assertions="4" failures="0" errors="0" time="0.033000">
+      <testcase name="testCheckException with data set #0" assertions="1" time="0.027152"/>
+      <testcase name="testCheckException with data set #1" assertions="1" time="0.002070"/>
+      <testcase name="testCheckException with data set #2" assertions="1" time="0.001884"/>
+      <testcase name="testCheckException with data set #3" assertions="1" time="0.001894"/>
+    </testsuite>
+  </testsuite>
+</testsuites>

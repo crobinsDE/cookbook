@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+  <testsuite name="Drupal\Tests\Component\Utility\ArgumentsResolverTest" file="/Users/digitalechidna/Sites/cookbook-cr/core/tests/Drupal/Tests/Component/Utility/ArgumentsResolverTest.php" tests="14" assertions="20" failures="0" errors="0" time="0.034171">
+    <testsuite name="Drupal\Tests\Component\Utility\ArgumentsResolverTest::testGetArgument" tests="5" assertions="5" failures="0" errors="0" time="0.006499">
+      <testcase name="testGetArgument with data set #0" assertions="1" time="0.002411"/>
+      <testcase name="testGetArgument with data set #1" assertions="1" time="0.001054"/>
+      <testcase name="testGetArgument with data set #2" assertions="1" time="0.001071"/>
+      <testcase name="testGetArgument with data set #3" assertions="1" time="0.000989"/>
+      <testcase name="testGetArgument with data set #4" assertions="1" time="0.000974"/>
+    </testsuite>
+    <testcase name="testGetArgumentObject" class="Drupal\Tests\Component\Utility\ArgumentsResolverTest" file="/Users/digitalechidna/Sites/cookbook-cr/core/tests/Drupal/Tests/Component/Utility/ArgumentsResolverTest.php" line="76" assertions="1" time="0.000894"/>
+    <testcase name="testGetWildcardArgument" class="Drupal\Tests\Component\Utility\ArgumentsResolverTest" file="/Users/digitalechidna/Sites/cookbook-cr/core/tests/Drupal/Tests/Component/Utility/ArgumentsResolverTest.php" line="87" assertions="1" time="0.000876"/>
+    <testcase name="testGetArgumentOrder" class="Drupal\Tests\Component\Utility\ArgumentsResolverTest" file="/Users/digitalechidna/Sites/cookbook-cr/core/tests/Drupal/Tests/Component/Utility/ArgumentsResolverTest.php" line="98" assertions="2" time="0.019937"/>
+    <testcase name="testGetWildcardArgumentNoTypehint" class="Drupal\Tests\Component\Utility\ArgumentsResolverTest" file="/Users/digitalechidna/Sites/cookbook-cr/core/tests/Drupal/Tests/Component/Utility/ArgumentsResolverTest.php" line="128" assertions="2" time="0.001282"/>
+    <testcase name="testGetArgumentRouteNoTypehintAndValue" class="Drupal\Tests\Component\Utility\ArgumentsResolverTest" file="/Users/digitalechidna/Sites/cookbook-cr/core/tests/Drupal/Tests/Component/Utility/ArgumentsResolverTest.php" line="144" assertions="1" time="0.000913"/>
+    <testcase name="testHandleNotUpcastedArgument" class="Drupal\Tests\Component\Utility\ArgumentsResolverTest" file="/Users/digitalechidna/Sites/cookbook-cr/core/tests/Drupal/Tests/Component/Utility/ArgumentsResolverTest.php" line="159" assertions="2" time="0.000929"/>
+    <testsuite name="Drupal\Tests\Component\Utility\ArgumentsResolverTest::testHandleUnresolvedArgument" tests="3" assertions="6" failures="0" errors="0" time="0.002841">
+      <testcase name="testHandleUnresolvedArgument with data set #0" assertions="2" time="0.000935"/>
+      <testcase name="testHandleUnresolvedArgument with data set #1" assertions="2" time="0.000979"/>
+      <testcase name="testHandleUnresolvedArgument with data set #2" assertions="2" time="0.000927"/>
+    </testsuite>
+  </testsuite>
+</testsuites>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+  <testsuite name="Drupal\Tests\Core\Route\RoleAccessCheckTest" file="/Users/digitalechidna/Sites/cookbook-cr/core/tests/Drupal/Tests/Core/Route/RoleAccessCheckTest.php" tests="6" assertions="22" failures="0" errors="0" time="0.033317">
+    <testsuite name="Drupal\Tests\Core\Route\RoleAccessCheckTest::testRoleAccess" tests="6" assertions="22" failures="0" errors="0" time="0.033317">
+      <testcase name="testRoleAccess with data set #0" assertions="4" time="0.016579"/>
+      <testcase name="testRoleAccess with data set #1" assertions="4" time="0.003663"/>
+      <testcase name="testRoleAccess with data set #2" assertions="4" time="0.003810"/>
+      <testcase name="testRoleAccess with data set #3" assertions="4" time="0.003381"/>
+      <testcase name="testRoleAccess with data set #4" assertions="3" time="0.002901"/>
+      <testcase name="testRoleAccess with data set #5" assertions="3" time="0.002983"/>
+    </testsuite>
+  </testsuite>
+</testsuites>

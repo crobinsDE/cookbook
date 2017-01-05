@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+  <testsuite name="Drupal\Tests\Core\Entity\EntityCreateAccessCheckTest" file="/Users/digitalechidna/Sites/cookbook-cr/core/tests/Drupal/Tests/Core/Entity/EntityCreateAccessCheckTest.php" tests="8" assertions="14" failures="0" errors="0" time="0.051294">
+    <testsuite name="Drupal\Tests\Core\Entity\EntityCreateAccessCheckTest::testAccess" tests="8" assertions="14" failures="0" errors="0" time="0.051294">
+      <testcase name="testAccess with data set #0" assertions="2" time="0.033808"/>
+      <testcase name="testAccess with data set #1" assertions="2" time="0.003005"/>
+      <testcase name="testAccess with data set #2" assertions="2" time="0.002706"/>
+      <testcase name="testAccess with data set #3" assertions="2" time="0.002426"/>
+      <testcase name="testAccess with data set #4" assertions="2" time="0.002559"/>
+      <testcase name="testAccess with data set #5" assertions="2" time="0.002529"/>
+      <testcase name="testAccess with data set #6" assertions="1" time="0.002152"/>
+      <testcase name="testAccess with data set #7" assertions="1" time="0.002109"/>
+    </testsuite>
+  </testsuite>
+</testsuites>

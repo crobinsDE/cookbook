@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+  <testsuite name="Drupal\Tests\Core\Access\CsrfTokenGeneratorTest" file="/Users/digitalechidna/Sites/cookbook-cr/core/tests/Drupal/Tests/Core/Access/CsrfTokenGeneratorTest.php" tests="11" assertions="16" failures="0" errors="0" time="0.036596">
+    <testcase name="testGet" class="Drupal\Tests\Core\Access\CsrfTokenGeneratorTest" file="/Users/digitalechidna/Sites/cookbook-cr/core/tests/Drupal/Tests/Core/Access/CsrfTokenGeneratorTest.php" line="83" assertions="3" time="0.007872"/>
+    <testcase name="testGenerateSeedOnGet" class="Drupal\Tests\Core\Access\CsrfTokenGeneratorTest" file="/Users/digitalechidna/Sites/cookbook-cr/core/tests/Drupal/Tests/Core/Access/CsrfTokenGeneratorTest.php" line="96" assertions="2" time="0.003831"/>
+    <testcase name="testValidate" class="Drupal\Tests\Core\Access\CsrfTokenGeneratorTest" file="/Users/digitalechidna/Sites/cookbook-cr/core/tests/Drupal/Tests/Core/Access/CsrfTokenGeneratorTest.php" line="118" assertions="3" time="0.016351"/>
+    <testsuite name="Drupal\Tests\Core\Access\CsrfTokenGeneratorTest::testValidateParameterTypes" tests="3" assertions="3" failures="0" errors="0" time="0.003144">
+      <testcase name="testValidateParameterTypes with data set #0" assertions="1" time="0.001092"/>
+      <testcase name="testValidateParameterTypes with data set #1" assertions="1" time="0.001022"/>
+      <testcase name="testValidateParameterTypes with data set #2" assertions="1" time="0.001030"/>
+    </testsuite>
+    <testsuite name="Drupal\Tests\Core\Access\CsrfTokenGeneratorTest::testInvalidParameterTypes" tests="4" assertions="4" failures="0" errors="0" time="0.004283">
+      <testcase name="testInvalidParameterTypes with data set #0" assertions="1" time="0.001180"/>
+      <testcase name="testInvalidParameterTypes with data set #1" assertions="1" time="0.001026"/>
+      <testcase name="testInvalidParameterTypes with data set #2" assertions="1" time="0.001039"/>
+      <testcase name="testInvalidParameterTypes with data set #3" assertions="1" time="0.001038"/>
+    </testsuite>
+    <testcase name="testGetWithNoHashSalt" class="Drupal\Tests\Core\Access\CsrfTokenGeneratorTest" file="/Users/digitalechidna/Sites/cookbook-cr/core/tests/Drupal/Tests/Core/Access/CsrfTokenGeneratorTest.php" line="203" assertions="1" time="0.001115"/>
+  </testsuite>
+</testsuites>
